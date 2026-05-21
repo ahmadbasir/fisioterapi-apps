@@ -122,23 +122,4 @@ lib/
 │   └── workout/          # Halaman Latihan Aktif, Ringkasan, & Ikhtisar Latihan
 └── main.dart             # Titik Masuk Utama Aplikasi (App Entry Point)
 ```
-
----
-
-## 🤝 Kontribusi (Contributing)
-
-Jika Anda ingin ikut berkontribusi dalam pengembangan aplikasi **FisioActive**:
-1. Lakukan **Fork** pada repositori ini.
-2. Buat branch fitur baru Anda (`git checkout -b fitur/FiturKerenAnda`).
-3. Commit perubahan Anda (`git commit -m 'Menambahkan fitur keren'`).
-4. Push ke branch Anda (`git push origin fitur/FiturKerenAnda`).
-5. Buat **Pull Request** baru di GitHub.
-
----
-
-## 📄 Lisensi (License)
-
-Proyek ini dilisensikan di bawah Lisensi **MIT**. Silakan gunakan secara bebas untuk keperluan belajar maupun komersial dengan tetap menyertakan atribusi yang sesuai.
-
----
-*Dibuat dengan ❤️ oleh kelompok pengembang **FisioActive***
+9
